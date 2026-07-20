@@ -18,4 +18,4 @@ f. [Olympic Success Around the World](./olympics-data-visualization/README.md) �
 
 g. [Exploratory Data Analysis & Statistical Modeling in R](./dsa406-statistical-analysis/README.md) — EDA, correlation, and linear regression analysis in R.
 
-h. - [Applied Machine Learning: Global Internet Adoption](./dsa412-machine-learning/README.md) — K-Means clustering + Ridge regression capstone, plus semester coursework in supervised/unsupervised learning and deep learning. ([source](https://github.com/khushichaturvedi-04/DSA-412))
+h. - [Applied Machine Learning: Global Internet Adoption](./dsa412-machine-learning/README.md) — K-Means clustering + Ridge regression capstone, plus semester coursework in supervised/unsupervised learning and deep learning.
