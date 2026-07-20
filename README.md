@@ -15,3 +15,5 @@ d. [City Transportation Planner](./ece309-transportation-planner/README.md) — 
 e. [Parallel Programming & Computer Architecture Simulation](./parallel-computing-architecture/README.md) — OpenMP parallel programming and SST-based MESI→MOESI cache coherence protocol work.
 
 f. [Olympic Success Around the World](./olympics-data-visualization/README.md) — Data visualization project on Olympic medal trends built in Tableau and R.
+
+g. [Exploratory Data Analysis & Statistical Modeling in R](./dsa406-statistical-analysis/README.md) — EDA, correlation, and linear regression analysis in R. ([source](https://github.com/khushichaturvedi-04/DSA-406))
