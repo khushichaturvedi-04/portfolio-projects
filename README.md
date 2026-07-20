@@ -10,6 +10,8 @@ b. [Sprout Sense – Smart Plant Monitoring System](./sprout-sense/README.md) �
 
 c. [Quantum Error Mitigation](./quantum-error-mitigation/README.md) — Research on post-processing techniques to correct NISQ quantum computing errors.
 
+d. [City Transportation Planner](./city-transportation-planner/README.md) — Graph-based shortest-path planner using Dijkstra's algorithm in C++17.
+
 ## About
 
 I'm Khushi Chaturvedi, an Electrical and Computer Engineering student at NC State University. 
