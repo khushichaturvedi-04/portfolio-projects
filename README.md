@@ -8,6 +8,8 @@ a. [ECE 306 – Autonomous Embedded Vehicle](./ece306-embedded-vehicle/README.md
 
 b. [Sprout Sense – Smart Plant Monitoring System](./sprout-sense/README.md) — Senior design capstone. IoT plant health monitor with real-time dashboard.
 
+c. [Quantum Error Mitigation (NC State REU)](./quantum-error-mitigation/README.md) — Research on post-processing techniques to correct NISQ quantum computing errors.
+
 ## About
 
 I'm Khushi Chaturvedi, an Electrical and Computer Engineering student at NC State University. 
