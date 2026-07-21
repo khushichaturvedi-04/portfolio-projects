@@ -1,10 +1,10 @@
-# Autonomous Embedded Vehicle System — ECE 306: Introduction to Embedded Systems
+# Autonomous Embedded Vehicle System - ECE 306: Introduction to Embedded Systems
 
 **North Carolina State University · Department of Electrical and Computer Engineering**
 
 ## Overview
 
-This project is a cumulative, semester-long embedded systems build in which I designed, programmed, and physically assembled an autonomous microcontroller-based vehicle from the ground up — progressing from bare power-delivery and I/O fundamentals to a fully autonomous robot capable of line-following navigation, wireless telemetry, and closed-course completion. Each of the ten project milestones built directly on the previous one, so the final system reflects an integrated stack spanning power electronics, embedded C/assembly, real-time firmware, motor control, sensor fusion, and IoT connectivity.
+This project is a cumulative, semester-long embedded systems build in which I designed, programmed, and physically assembled an autonomous microcontroller-based vehicle from the ground up  progressing from bare power-delivery and I/O fundamentals to a fully autonomous robot capable of line-following navigation, wireless telemetry, and closed-course completion. Each of the ten project milestones built directly on the previous one, so the final system reflects an integrated stack spanning power electronics, embedded C/assembly, real-time firmware, motor control, sensor fusion, and IoT connectivity.
 
 The course modeled the constraints and workflow of real embedded systems engineering: fixed hardware resources, hard timing requirements, individual accountability for every line of code (even within a collaborative team structure), and live technical demonstrations in place of most written submissions.
 
