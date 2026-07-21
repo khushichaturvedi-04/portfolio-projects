@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-Hi, I am Khushi Chaturvedi. A senior in Computer Engineering, North Carolina State University.
+Hi, I am Khushi, a senior in computer engineering, North Carolina State University.
 
 A collection of engineering projects spanning embedded systems, machine learning, data visualization, mobile development, computer architecture, and quantum computing research. Each project folder contains a detailed README covering the system design, technical approach, and outcomes.
 
