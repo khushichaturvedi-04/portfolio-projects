@@ -18,47 +18,25 @@ A collection of engineering projects spanning embedded systems, machine learning
 
 ## Projects
 
-a. [ECE 306, Autonomous Embedded Vehicle](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/ece306-embedded-vehicle/README.md)
+a. [ECE 306, Autonomous Embedded Vehicle](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/ece306-embedded-vehicle/README.md) - Designed and built an autonomous MSP430-based vehicle with line-following navigation, motor control, and IoT telemetry.
 
-Designed and built an autonomous MSP430-based vehicle with line-following navigation, motor control, and IoT telemetry.
+b. [Sprout Sense, Smart Plant Monitoring System](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/sprout-sense/README.md) - Senior design capstone. Full-stack IoT plant health monitor with a real-time web dashboard.
 
-b. [Sprout Sense, Smart Plant Monitoring System](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/sprout-sense/README.md)
+c. [Quantum Error Mitigation](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/quantum-error-mitigation/README.md) - Undergraduate research on post-processing techniques to correct NISQ quantum computing errors.
 
-Senior design capstone. Full-stack IoT plant health monitor with a real-time web dashboard.
+d. [City Transportation Planner](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/ece309-transportation-planner/README.md) - Graph-based shortest-path planner handling 10,000+ stops, built in C++17 using Dijkstra's algorithm.
 
-c. [Quantum Error Mitigation](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/quantum-error-mitigation/README.md)
+e. [Parallel Programming and Computer Architecture Simulation](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/parallel-computing-architecture/README.md) - OpenMP parallel programming and an SST-based MESI-to-MOESI cache coherence protocol extension.
 
-Undergraduate research on post-processing techniques to correct NISQ quantum computing errors.
+f. [Olympic Success Around the World](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/olympics-data-visualization/README.md) - Data visualization project on Olympic medal trends, built in Tableau and R.
 
-d. [City Transportation Planner](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/ece309-transportation-planner/README.md)
+g. [Exploratory Data Analysis and Statistical Modeling in R](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/dsa406-statistical-analysis/README.md) - EDA, correlation analysis, and linear regression modeling in R.
 
-Graph-based shortest-path planner handling 10,000+ stops, built in C++17 using Dijkstra's algorithm.
+h. [Applied Machine Learning: Global Internet Adoption](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/dsa412-machine-learning/README.md) - Capstone applying K-Means clustering and Ridge regression, plus a semester of supervised, unsupervised, and deep learning coursework.
 
-e. [Parallel Programming and Computer Architecture Simulation](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/parallel-computing-architecture/README.md)
+i. [Hyperspectral Filter Array Optimization via Genetic Algorithms](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/hyperspectral-filter-optimization/README.md) - Ongoing undergraduate research, Dr. Dror Baron's Lab, NC State. Genetic-algorithm-based spectral filter optimization for compressive hyperspectral imaging.
 
-OpenMP parallel programming and an SST-based MESI-to-MOESI cache coherence protocol extension.
+j. [AR4D Measure](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/ar4d-measure/README.md) - Open-source iOS AR app. A 4D spatial measurement tool built in Swift, ARKit, SceneKit, and SwiftUI.
 
-f. [Olympic Success Around the World](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/olympics-data-visualization/README.md)
-
-Data visualization project on Olympic medal trends, built in Tableau and R.
-
-g. [Exploratory Data Analysis and Statistical Modeling in R](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/dsa406-statistical-analysis/README.md)
-
-EDA, correlation analysis, and linear regression modeling in R.
-
-h. [Applied Machine Learning: Global Internet Adoption](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/dsa412-machine-learning/README.md)
-
-Capstone applying K-Means clustering and Ridge regression, plus a semester of supervised, unsupervised, and deep learning coursework.
-
-i. [Hyperspectral Filter Array Optimization via Genetic Algorithms](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/hyperspectral-filter-optimization/README.md)
-
-Ongoing undergraduate research, Dr. Dror Baron's Lab, NC State. Genetic-algorithm-based spectral filter optimization for compressive hyperspectral imaging.
-
-j. [AR4D Measure](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/ar4d-measure/README.md)
-
-Open-source iOS AR app. A 4D spatial measurement tool built in Swift, ARKit, SceneKit, and SwiftUI.
-
-k. [Level 1 High-Power Rocketry Certification](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/level1-rocketry-certification/README.md)
-
-NAR/Tripoli Level 1 certification flight, designed and simulated in OpenRocket.
+k. [Level 1 High-Power Rocketry Certification](https://github.com/khushichaturvedi-04/portfolio-projects/blob/main/level1-rocketry-certification/README.md) - NAR/Tripoli Level 1 certification flight, designed and simulated in OpenRocket.
 
