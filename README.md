@@ -1,4 +1,4 @@
-# Khushi Chaturvedi: Portfolio Projects
+# Portfolio Projects
 
 Electrical and Computer Engineering, North Carolina State University
 
